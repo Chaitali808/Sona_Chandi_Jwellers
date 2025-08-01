@@ -1,0 +1,43 @@
+  /* Fonts */
+
+  @import url('https://fonts.googleapis.com/css2?family=Garet&display=swap');
+  
+  /* General Styles */
+ h1,
+ h2,
+ h3,
+ h4,
+ h5,
+ h6 {
+     font-family: 'Cormorant Garamond', serif !important;
+     color: #420A5C !important; ;
+     font-size: 2.5rem !important;
+     font-weight: 700 !important;
+ }
+  body {
+      font-family: 'Garet', sans-serif !important;
+
+  }
+
+ p {
+     color: #715454 ;
+     text-align: justify;
+     font-size: 1rem;
+ }
+
+  /* .btn {
+      background-color: #9273A7;
+      color: white;
+      font-weight: 800;
+      font-size: 32px;
+      padding: 20px 50px;
+      border: none;
+      border-radius: 15px;
+      box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.4);
+      cursor: pointer;
+      transition: transform 0.2s ease;
+  }
+
+  .btn:hover {
+      transform: translateY(-2px);
+  } */
